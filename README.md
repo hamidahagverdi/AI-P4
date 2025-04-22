@@ -73,8 +73,8 @@ The Q-learning algorithm updates values according to:
 Q(s,a) ← Q(s,a) + α[r + γ·max Q(s',a') - Q(s,a)]
 Where:
 
-α (alpha): Learning rate
-γ (gamma): Discount factor for future rewards
+α (alpha): Learning rate ..
+γ (gamma): Discount factor for future rewards ..
 ε (epsilon): Exploration rate that decays over time
 
 
