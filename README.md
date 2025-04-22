@@ -12,8 +12,8 @@ This program is an automated player for a grid-based game that uses Q-learning t
 
 The client:
 
-Connects to a game server using REST API endpoints **
-Navigates through a grid world using cardinal directions (N, S, E, W)
+Connects to a game server using REST API endpoints  
+Navigates through a grid world using cardinal directions (N, S, E, W)  
 Learns from rewards received after each move
 Optimizes its strategy over multiple episodes
 Tracks and reports the best score achieved
